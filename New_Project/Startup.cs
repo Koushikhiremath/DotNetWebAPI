@@ -26,7 +26,7 @@ namespace New_Project
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers();
-            services.AddExample();
+            services.AddScoped<IData, Data>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
