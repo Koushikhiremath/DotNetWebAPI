@@ -13,8 +13,6 @@ D:\Trash\Project\New_Project\New_Project\bin\Debug\netcoreapp3.1\Microsoft.CodeA
 D:\Trash\Project\New_Project\New_Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
 D:\Trash\Project\New_Project\New_Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
 D:\Trash\Project\New_Project\New_Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
-D:\Trash\Project\New_Project\New_Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
-D:\Trash\Project\New_Project\New_Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 D:\Trash\Project\New_Project\New_Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
 D:\Trash\Project\New_Project\New_Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
 D:\Trash\Project\New_Project\New_Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
